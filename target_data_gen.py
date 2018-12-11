@@ -2,8 +2,8 @@
 #translating EDF files from database (full dataset for patient = 1)
 import pyedflib
 import numpy as np
-from matplotlib import pyplot as plt
-import os
+#from matplotlib import pyplot as plt
+#import os
 #import pandas as pd
 import re 
 
